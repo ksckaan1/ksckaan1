@@ -1,4 +1,4 @@
-![Mustafa Kemal ATATÜRK](https://github.com/ksckaan1/ksckaan1/atatürk.png)
+![Mustafa Kemal ATATÜRK](https://github.com/ksckaan1/ksckaan1/blob/master/atat%C3%BCrk.png)
 
 :computer: I'm developing with Golang, Dart, JavaScript, Python, C/C++
 
