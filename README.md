@@ -11,8 +11,3 @@ Backend Developer
 * :tr:  I'm based in Turkiye
 * :computer:  See my portfolio at [kaanksc.com](http://kaanksc.com)
 * ✉️  You can contact me at [me@kaanksc.com](mailto:me@kaanksc.com)
-
-<a href="https://www.github.com/ksckaan1" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ksckaan1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/ksckaan1" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/ksckaan1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
